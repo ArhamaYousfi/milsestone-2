@@ -1,0 +1,243 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header{
+  background-color: black;
+  padding: 10px;
+}
+
+.header h1{
+  color: white;
+}
+
+.header li{
+  display: inline-block;
+}
+
+.header li a{
+  color: white;
+  text-decoration: none;
+  margin: 5px;
+  padding: 100px;
+  text-transform: uppercase;
+}
+
+.header h1{
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+
+.header :hover{
+  color: rgb(186, 38, 62);
+}
+
+span{
+  color: rgb(186, 38, 62);
+}
+
+.all{
+  text-align: center;
+  text-decoration: underline;
+  margin: 50px;
+}
+
+#collimg{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.nail{
+  margin-bottom: 50px;
+  margin-left: 90px;
+}
+
+.liquid{
+  margin-bottom: 50px;
+  margin-left: 90px;
+}
+
+.loose{
+  margin-bottom: 50px;
+  margin-left: 90px;
+}
+
+.glitter{
+  margin-bottom: 50px;
+  margin-left: 90px;
+}
+
+#brand h1{
+  margin: 30px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+#brand p{
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.footer{
+  background-color: black;
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  border-top-left-radius: 125px;
+  cursor: pointer;
+}
+
+.footer h1{
+  margin-left: 40px;
+}
+
+ul{
+  list-style: none;
+  padding: 10px;
+}
+ 
+li{
+   padding: 5px;
+}
+
+.shop{
+  margin-top: 60px;
+  padding-right: 250px;
+}
+
+.about{
+  margin-top: 60px;
+  padding-right: 300px;
+}
+
+.help{
+  margin-top: 60px;
+}
+
+
+
+#main{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 90px;
+}
+
+.eyeshadow{
+  margin-left: 30;
+}
+
+.lipstick{
+   margin-left: 30px;
+}
+
+.palette{
+  margin-left: 75px;
+}
+
+.mascara{
+  margin: 30px;
+}
+
+.miss{
+  margin-left: 40px;
+}
+
+.loose{
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+.lqd{
+  margin-left: 30px;
+}
+
+.nail{
+  margin-left: 90px;
+}
+
+.eyeliner{
+  margin-left: 85px;
+}
+
+
+
+.skincare{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 20px;
+  padding: 80px;
+}
+
+.cleanser{
+  margin-bottom: 50px;
+  margin-left: 90px;
+}
+
+.gel{
+  margin-left: 90px;
+}
+
+.glow{
+  margin-left: 90px;
+}
+
+.hand{
+  margin-left: 90px;
+}
+
+.sunscreen{
+  margin-left: 90px;
+}
+
+.vitamin{
+  margin-left: 90px;
+}
+
+
+
+.bestseller{
+  margin: 80px;
+}
+
+.best{
+  margin-left: 400px;
+}
+
+.foundation{
+  margin-left: 400px;
+}
+
+
+
+.aboutUs h1{
+  font-size: 20px;
+}
+
+.aboutUs{
+  text-align: center;
+  margin: 60px;
+}
+
+.aboutUs h3{
+  margin: 30px;
+  font-size: 30px;
+}
+
+.aboutUs h2{
+  margin: 30px;
+  font-size: 50px ;
+}
+
+.aboutUs p{
+  font-size: 20px;
+  margin: 30px;
+}
+
+
+
+
+
